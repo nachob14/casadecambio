@@ -6,4 +6,4 @@ En la misma se puede seleccionar una moneda base para luego ver las distintas pa
 
 ## Instalacion
 
-Correr 'npm install'
+Correr `npm install`
